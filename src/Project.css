@@ -1,0 +1,11 @@
+.Project {
+    background-color: rgb(207, 171, 218);
+    border: 1px solid gray;
+    margin: 1em;
+    padding-bottom: 1em;
+}
+
+.Project > img {
+    border-bottom: 1px solid gray;
+    background-color: rgb(231, 151, 171);
+}
