@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import PageHeader from './PageHeader'
 import PageContent from './PageContent'
+import Footer from './Footer'
 
 
 function App() {
@@ -9,6 +10,8 @@ function App() {
     <div className="App">
       <PageHeader />
       <PageContent />
+      <PageContent />
+      <Footer />
     </div>
   )
 }
